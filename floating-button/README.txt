@@ -5,7 +5,7 @@ Tags: floating button, floating menu, sticky button, sticky, nav menu
 Requires at least: 5.5
 Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 6.0.8
+Stable tag: 6.0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -96,6 +96,8 @@ Search for answers and ask your questions at [support center](https://wordpress.
 
 
 == Changelog ==
+= 6.0.9 =
+* Fixed: check footer page
 
 = 6.0.8 =
 * Updated: FontAwesome Icons to version 6.7.1

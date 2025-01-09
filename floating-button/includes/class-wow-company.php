@@ -47,7 +47,7 @@ final class Wow_Company {
 			$this,
 			'main_page',
 		), $icon );
-		add_submenu_page( 'wow-company', 'Welcome to Wow-Company', '👋 Hey', 'manage_options', 'wow-company' );
+		add_submenu_page( 'wow-company', 'Welcome to Wow-Company', '&#128075; Hey', 'manage_options', 'wow-company' );
 	}
 
 	/**
