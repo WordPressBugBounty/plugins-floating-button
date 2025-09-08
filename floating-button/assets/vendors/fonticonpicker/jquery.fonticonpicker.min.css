@@ -269,7 +269,7 @@
 .fip-icons-container i.far,
 .icons-selector .selected-icon i.fas,
 .icons-selector .selected-icon i.far{
-    font-family: "Font Awesome 6 Free";
+    font-family: "Font Awesome 7 Free";
 }
 
 
@@ -283,12 +283,12 @@
 .icons-selector .selected-icon i.fa-solid,
 .icons-selector .selected-icon i.far,
 .icons-selector .selected-icon i.fa-regular{
-    font-family: 'Font Awesome 6 Free';
+    font-family: 'Font Awesome 7 Free';
 }
 
 .fip-icons-container i.fab,
 .fip-icons-container i.fa-brands,
 .icons-selector .selected-icon i.fab,
 .icons-selector .selected-icon i.fa-brands {
-    font-family: 'Font Awesome 6 Brands';
+    font-family: 'Font Awesome 7 Brands';
 }

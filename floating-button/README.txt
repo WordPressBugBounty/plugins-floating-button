@@ -1,11 +1,11 @@
 === Floating Button ===
 Contributors: Wpcalc, lobov
 Donate link: https://wow-estore.com/item/floating-button-pro/
-Tags: floating button, floating menu, sticky button, sticky, nav menu
+Tags: buttons, floating button, nav menu, contact button, call button
 Requires at least: 5.5
 Tested up to: 6.6
 Requires PHP: 7.4
-Stable tag: 6.0.13
+Stable tag: 6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -96,6 +96,9 @@ Search for answers and ask your questions at [support center](https://wordpress.
 
 
 == Changelog ==
+= 6.1 =
+* Updated: Font Awesome library upgraded to version **7.0.0**.
+
 = 6.0.13 =
 * Improved: Refactored AdminActions class for better performance and readability
 * Improved: Reordered condition checks for better execution performance
